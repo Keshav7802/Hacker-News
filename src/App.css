@@ -24,6 +24,19 @@
   color: white;
 }
 
+.story {
+  background-color: #edf2f2 !important;
+  border-radius: 30px !important;
+  margin: 10px !important;
+}
+
+.story-head {
+  background-color: #09a309f8 !important;
+  border-radius: 20px !important;
+  font-weight: bolder !important;
+  color: white !important;
+}
+
 .App-link {
   color: #61dafb;
 }
