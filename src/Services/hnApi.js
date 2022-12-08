@@ -3,7 +3,7 @@ import { selectFields } from '../Selectors/SelectFields';
 import { selectCommFields } from '../Selectors/SelectCommField';
 
 export const baseUrl = 'https://hacker-news.firebaseio.com/v0/';
-export const algobaseUrl = 'http://hn.algolia.com/api/v1/';
+export const algobaseUrl = 'https://hn.algolia.com/api/v1/';
 export const newStoriesUrl = `${baseUrl}newstories.json`;
 export const topStoriesUrl = `${baseUrl}topstories.json`;
 export const bestStoriesUrl = `${baseUrl}beststories.json`;
